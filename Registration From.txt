@@ -1,0 +1,21 @@
+Ragistration from: 
+
+https://github.com/codeurritesh/Blog_management_Website?tab=readme-ov-file
+
+1 step: create file
+
+- install express(node package manger it contain all packages)
+  npm i express
+- install to mangoose for link express(Node) and mangodb
+   npm i mangoose
+- install to static heading/ template engine (handle bass)
+   npm i hbs 
+- creating src file
+   > mkdir src  
+- creating app.js file
+  src> type nul>app.js 
+- install nodeman
+  npm install -g nodemon
+- to check port
+  main folder > node scr/app.js
+- Create Views folder ro use template Engine 
